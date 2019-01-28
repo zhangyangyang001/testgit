@@ -1,2 +1,2 @@
-# testgit
+# firstgit
 the first git repository
